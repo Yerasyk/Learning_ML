@@ -2,7 +2,7 @@
 
 This folder contains my notebooks and report for the **Kaggle "Don't Overfit II"** competition.
 
-📄 [Full Report (PDF)](./Report.pdf)
+📄 [Full Report (PDF)](./Don't_overfit2_report.pdf)
 
 ## Summary
 - Explored several ML models: **kNN**, **ANN**, **MLP** and **XGBoost**.  
